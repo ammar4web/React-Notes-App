@@ -9744,6 +9744,11 @@
     "schema-utils" "^2.6.1"
     "semver" "^6.3.0"
 
+"save-dev@^0.0.1-security":
+  "integrity" "sha512-k6knZTDNK8PKKbIqnvxiOveJinuw2LcQjqDoaorZWP9M5AR2EPsnpDeSbeoZZ0pHr5ze1uoaKdK8NBGQrJ34Uw=="
+  "resolved" "https://registry.npmjs.org/save-dev/-/save-dev-0.0.1-security.tgz"
+  "version" "0.0.1-security"
+
 "sax@~1.2.4":
   "integrity" "sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw=="
   "resolved" "https://registry.npmjs.org/sax/-/sax-1.2.4.tgz"
